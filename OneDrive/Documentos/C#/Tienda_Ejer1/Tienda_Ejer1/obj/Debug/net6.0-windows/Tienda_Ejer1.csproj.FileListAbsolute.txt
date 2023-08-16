@@ -1,0 +1,17 @@
+C:\Users\franc\OneDrive\Documentos\C#\Tienda_Ejer1\Tienda_Ejer1\bin\Debug\net6.0-windows\Tienda_Ejer1.exe
+C:\Users\franc\OneDrive\Documentos\C#\Tienda_Ejer1\Tienda_Ejer1\bin\Debug\net6.0-windows\Tienda_Ejer1.deps.json
+C:\Users\franc\OneDrive\Documentos\C#\Tienda_Ejer1\Tienda_Ejer1\bin\Debug\net6.0-windows\Tienda_Ejer1.runtimeconfig.json
+C:\Users\franc\OneDrive\Documentos\C#\Tienda_Ejer1\Tienda_Ejer1\bin\Debug\net6.0-windows\Tienda_Ejer1.dll
+C:\Users\franc\OneDrive\Documentos\C#\Tienda_Ejer1\Tienda_Ejer1\bin\Debug\net6.0-windows\Tienda_Ejer1.pdb
+C:\Users\franc\OneDrive\Documentos\C#\Tienda_Ejer1\Tienda_Ejer1\obj\Debug\net6.0-windows\Tienda_Ejer1.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Documentos\C#\Tienda_Ejer1\Tienda_Ejer1\obj\Debug\net6.0-windows\Tienda_Ejer1.Form1.resources
+C:\Users\franc\OneDrive\Documentos\C#\Tienda_Ejer1\Tienda_Ejer1\obj\Debug\net6.0-windows\Tienda_Ejer1.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Documentos\C#\Tienda_Ejer1\Tienda_Ejer1\obj\Debug\net6.0-windows\Tienda_Ejer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Documentos\C#\Tienda_Ejer1\Tienda_Ejer1\obj\Debug\net6.0-windows\Tienda_Ejer1.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Documentos\C#\Tienda_Ejer1\Tienda_Ejer1\obj\Debug\net6.0-windows\Tienda_Ejer1.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Documentos\C#\Tienda_Ejer1\Tienda_Ejer1\obj\Debug\net6.0-windows\Tienda_Ejer1.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documentos\C#\Tienda_Ejer1\Tienda_Ejer1\obj\Debug\net6.0-windows\Tienda_Ejer1.dll
+C:\Users\franc\OneDrive\Documentos\C#\Tienda_Ejer1\Tienda_Ejer1\obj\Debug\net6.0-windows\refint\Tienda_Ejer1.dll
+C:\Users\franc\OneDrive\Documentos\C#\Tienda_Ejer1\Tienda_Ejer1\obj\Debug\net6.0-windows\Tienda_Ejer1.pdb
+C:\Users\franc\OneDrive\Documentos\C#\Tienda_Ejer1\Tienda_Ejer1\obj\Debug\net6.0-windows\Tienda_Ejer1.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Documentos\C#\Tienda_Ejer1\Tienda_Ejer1\obj\Debug\net6.0-windows\ref\Tienda_Ejer1.dll
